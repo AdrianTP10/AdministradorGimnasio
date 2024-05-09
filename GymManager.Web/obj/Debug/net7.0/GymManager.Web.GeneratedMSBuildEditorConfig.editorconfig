@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GymManager.Web
+build_property.RootNamespace = GymManager.Web
+build_property.ProjectDir = C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Attendance/MemberIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxNZW1iZXJJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Attendance/MemberOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxNZW1iZXJPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/EquipmentTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50VHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/EquipmentTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50VHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/EquipmentTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50VHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Invoicing/GenerateInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljaW5nXEdlbmVyYXRlSW52b2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Invoicing/Print.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljaW5nXFByaW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Invoicing/_PrintView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljaW5nXF9QcmludFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/MembershipTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/MembershipTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/MembershipTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Members/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Members/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Members/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Members/Renewal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xSZW5ld2FsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Members/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Shared/Components/AppMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQXBwTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Shared/Components/AppMenu/_UserMenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQXBwTWVudVxfVXNlck1lbnVJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Shared/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Shared/_Member.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Shared/_MemberList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Adria/OneDrive/Documentos/GitHub/DN9_Irving_Torres/06_NetCoreWithEntityFramework/E4/GymManager.Web/GymManager.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

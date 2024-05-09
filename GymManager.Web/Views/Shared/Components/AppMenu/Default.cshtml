@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using GymManager.Web.Models;
+@model GymManager.Web.Models.MenuViewModel
+@{
+    var orderedMenuItems = Model.Menu.OrderBy(x => x.Order);
+}
+<ul class="navbar-nav me-auto mb-2 mb-md-0">
+    
+    @foreach(var menuItem in orderedMenuItems)
+    {
+       @await Html.PartialAsync("~/Views/Shared/Components/AppMenu/_UserMenuItem.cshtml", new UserMenuItemViewModel
+       {
+           MenuItem = menuItem,
+           RootLevel = true,
+           CurrentPageName = Model.CurrentPageName
+       }) 
+    }
+</ul>

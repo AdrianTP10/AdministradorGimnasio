@@ -1,0 +1,17 @@
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\bin\Release\net7.0\GymManager.DataAccess.deps.json
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\bin\Release\net7.0\GymManager.DataAccess.runtimeconfig.json
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\bin\Release\net7.0\GymManager.DataAccess.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\bin\Release\net7.0\GymManager.DataAccess.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\bin\Release\net7.0\GymManager.Core.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\bin\Release\net7.0\GymManager.Core.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.AssemblyInfo.cs
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.csproj.CopyComplete
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\refint\GymManager.DataAccess.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\GymManager.DataAccess.genruntimeconfig.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.DataAccess\obj\Release\net7.0\ref\GymManager.DataAccess.dll

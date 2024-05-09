@@ -1,0 +1,34 @@
+﻿@{
+    Layout = "_Layout";
+}
+<div class="row mt-5">
+    <div class="col-md-4 mx-auto">
+        <h2 class="text-center">Registrar Ingreso</h2>
+       
+        <div class="form-group my-4">
+            <label for="userId">ID de Usuario</label>
+            <input type="text" class="form-control" id="userId" placeholder="Ingrese su ID de usuario">
+        </div>
+        <button id="toggleButton" class="btn btn-danger">Registrar</button>
+      
+
+        <!-- Modal -->
+        <div class="modal fade modal-dialog modal-dialog-centered" id="attendanceModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="exampleModalLabel">Entrada Registrada</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Ok</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

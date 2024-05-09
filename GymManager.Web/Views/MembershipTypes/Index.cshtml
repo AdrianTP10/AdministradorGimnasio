@@ -1,0 +1,55 @@
+﻿@model List<GymManager.Core.MembershipType>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section HeaderRight
+    {
+    <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-danger" type="submit">Search</button>
+    </form>
+}
+
+<div class="container">
+    <h1 class="mt-5">Membership Types</h1>
+    <div class="row">
+        @* <div class="col-6">
+            <p>New members of week: @Model.NewMembersCount</p>
+        </div> *@
+        <div class="col-12">
+            <a asp-action="Create" class="btn btn-outline-success float-end">Add Membership Type</a>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Membership Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Duration(Months)</th>
+                
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var membership in Model)
+            {
+                <tr>
+                    <th scope="row">@membership.MembershipName</th>
+                    <td>@membership.Price</td>
+                    <td>@membership.Duration</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-membershipId="@membership.Id" class="btn btn-outline-info">Edit</a>
+                    </td>
+                    <td>
+                        <a asp-action="Delete" asp-route-membershipId="@membership.Id" class="btn btn-outline-danger">Delete</a>
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\bin\Release\net7.0\GymManager.Core.deps.json
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\bin\Release\net7.0\GymManager.Core.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\bin\Release\net7.0\GymManager.Core.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\GymManager.Core.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\refint\GymManager.Core.dll
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\GymManager.Core.pdb
+C:\Users\Adria\OneDrive\Documentos\GitHub\DN9_Irving_Torres\06_NetCoreWithEntityFramework\E4\GymManager.Web\GymManager.Core\obj\Release\net7.0\ref\GymManager.Core.dll

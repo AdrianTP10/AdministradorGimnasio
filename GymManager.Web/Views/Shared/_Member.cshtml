@@ -1,0 +1,110 @@
+﻿@model GymManager.Web.Models.MemberViewModel
+@{
+}
+
+<div class="container mt-5">
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="AllowNewsletter" />
+        <input type="hidden" asp-for="CityId" />
+        <input type="hidden" asp-for="Name" />
+        <input type="hidden" asp-for="LastName" />
+        <input type="hidden" asp-for="BirthDay" />
+        <input type="hidden" asp-for="Email" />
+
+        <table class="table">
+            <tbody>
+                <tr>
+                    <td> <label asp-for="Name" class="form-label">First Name</label></td>
+                    <td>@Model.Name</td>
+                </tr>
+
+                <tr>
+                    <td><label asp-for="LastName" class="form-label">Last Name</label></td>
+                    <td>@Model.LastName</td>
+
+                </tr>
+
+                <tr>
+                    <td><label asp-for="BirthDay" class="form-label">Date of birth</label></td>
+                    <td>@Model.BirthDay</td>
+
+                </tr>
+
+                <tr>
+                    <td><label asp-for="Email" class="form-label">Email Address</label></td>
+                    <td>@Model.Email</td>
+
+                </tr>
+                <tr>
+                    <td><label asp-for="MembershipTypeId" class="form-label">Membership Type</label></td>
+                    <td>
+                        <select class="form-control" asp-for="MembershipTypeId">
+                        <option value="1">Standard</option>
+                        <option value="2">Premium</option>
+                        <option value="3">Gold</option>
+                        <option value="4">Platinum</option>
+                        </select>
+                    </td>
+                    <span asp-validation-for="MembershipTypeId" class="text-danger"></span>
+                </tr>
+               
+            </tbody>
+        </table>
+
+        <button type="submit" class="btn btn-primary mb-3">Renew Membership</button>
+    </form>
+   @*  <form asp-action="Edit">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="AllowNewsletter" />
+        <table class="table">
+            <tbody>
+                <tr>
+                    <td>Name:</td>
+                    <td><input type="text" class="form-control" asp-for="Name" disabled/></td>
+
+                </tr>
+                <tr>
+                    <td>Last Name:</td>
+                    <td><input type="text" class="form-control" asp-for="LastName" disabled /></td>
+                </tr>
+                <tr>
+                    <td>Birthday:</td>
+                    <td><input type="text" class="form-control" asp-for="BirthDay" disabled /></td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type="email" class="form-control" asp-for="Email" disabled /></td>
+                </tr>
+                <tr>
+                    <td>City:</td>
+                    <td>
+                        <select class="form-control" asp-for="CityId" disabled>
+                            <option value="2">Alabama</option>
+                            <option value="3">Alaska</option>
+                            <option value="4">Arizona</option>
+                            <option value="5">Arkansas</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Birthday:</td>
+                    <td><input type="text" class="form-control" asp-for="BirthDay" placeholder=@Model.BirthDay.ToString("dd/MM/yyy") disabled /></td>
+                </tr>
+                <tr>
+                    <td>Membership Type:</td>
+                    <td>
+                        <select class="form-control" asp-for="MembershipTypeId">
+                            <option value="1">Standard</option>
+                            <option value="2">Premium</option>
+                            <option value="3">Gold</option>
+                            <option value="4">Platinum</option>
+                        </select>
+                        <span asp-validation-for="MembershipTypeId" class="text-danger"></span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <button type="submit" class="btn btn-primary mb-3">Submit</button>
+    </form> *@
+</div>

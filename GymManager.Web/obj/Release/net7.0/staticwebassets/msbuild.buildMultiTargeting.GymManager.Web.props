@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GymManager.Web.props" />
+</Project>

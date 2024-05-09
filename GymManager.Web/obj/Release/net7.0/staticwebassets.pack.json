@@ -1,0 +1,265 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\AttendanceModal.js",
+      "PackagePath": "staticwebassets\\AttendanceModal.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Images\\channels4_profile.jpg",
+      "PackagePath": "staticwebassets\\Images\\channels4_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Images\\logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Views\\Members\\Create.js",
+      "PackagePath": "staticwebassets\\Views\\Members\\Create.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\Views\\Users\\Create.js",
+      "PackagePath": "staticwebassets\\Views\\Users\\Create.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adria\\OneDrive\\Documentos\\GitHub\\DN9_Irving_Torres\\06_NetCoreWithEntityFramework\\E4\\GymManager.Web\\GymManager.Web\\wwwroot\\lib\\momentjs.com_downloads_moment.js",
+      "PackagePath": "staticwebassets\\lib\\momentjs.com_downloads_moment.js"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.GymManager.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.GymManager.Web.props",
+      "PackagePath": "build\\GymManager.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GymManager.Web.props",
+      "PackagePath": "buildMultiTargeting\\GymManager.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.GymManager.Web.props",
+      "PackagePath": "buildTransitive\\GymManager.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

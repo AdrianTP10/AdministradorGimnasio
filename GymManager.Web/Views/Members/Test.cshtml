@@ -1,0 +1,28 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@section Head 
+{
+    <style>
+        h1.mt-5{
+            color:red;
+        }
+    </style>
+}
+@section Scripts
+    {
+    <script>
+        function ShowMessage(){
+            alert("This is a test");
+        }
+        setTimeout(ShowMessage(),3000);
+    </script>
+}
+<div class="container">
+    <h1 class="mt-5">A second view</h1>
+
+    <img src="~/Images/channels4_profile.jpg" />
+    
+</div>
